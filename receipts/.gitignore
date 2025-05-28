@@ -1,0 +1,4 @@
+# Ignorer tous les fichiers PDF dans ce dossier
+*.pdf
+# Mais conserver le dossier lui-même
+!.gitignore
